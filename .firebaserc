@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-tic-tac-toe-game-90c81": {
+      "hosting": {
+        "tic-tac-toe": [
+          "angular-tic-tac-toe-game-90c81"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-tic-tac-toe-game-90c81"
+  }
+}

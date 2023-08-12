@@ -1,0 +1,18 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+mat-toolbar {
+  background: #051553;
+  color: white;
+  padding: 1%;
+}
+
+app-board {
+  margin-left: 2%;
+  margin-top: 1%;
+}
+
+mat-card {
+  background: #0d0539;
+}/*# sourceMappingURL=app.component.css.map */
